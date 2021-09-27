@@ -1,2 +1,2 @@
-# BKTZreact
-React web project for BKTZ
+# bktz-metaplex
+React web project with Metaplex for BKTZ
